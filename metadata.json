@@ -1,0 +1,6 @@
+{
+  "name": "AI Email Suggested Response System",
+  "description": "An AI-powered customer support response evaluation system featuring RAG, semantic grounding, and multiple evaluation metrics like BLEU, ROUGE-L, and tone consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
